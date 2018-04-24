@@ -1,4 +1,9 @@
 ### itchat-example
+* run the code below in terminal or a shell
+    ```
+    python itchat_sendmessage_sample.py 
+    ```
+
 * 有用的相关链接
     * <a href='https://blog.csdn.net/co_zy/article/details/73302984'>Python利用itchat库向好友或者公众号发消息</a>
     * <a href='https://github.com/littlecodersh/ItChat'>itchat开源库地址</a>
