@@ -28,14 +28,14 @@
         >>> itchat.send("hello,this is a new message!", toUserName = userName)
         ```
 
-* 或者直接run这段脚本，
+* 或者通过第二种方式，直接run这段脚本。
     * run the code below in terminal or a shell
     ```
     python itchat_sendmessage_sample.py 
     ```
 
 
-* 有用的相关链接
+* 相关有用的相关链接
     * <a href='https://blog.csdn.net/co_zy/article/details/73302984'>Python利用itchat库向好友或者公众号发消息</a>
     * <a href='https://github.com/littlecodersh/ItChat'>itchat开源库地址</a>
     * <a href='http://itchat.readthedocs.io/zh/latest/'>itchat使用指南</a>
